@@ -181,7 +181,7 @@ export default function CartPage() {
                   <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
                     {item.base && (
                       <div style={rowStyle}>
-                        <span style={labelStyle}>Base</span>
+                        <span style={labelStyle}>Basis</span>
                         <span style={valueStyle}>{BASES[item.base] || item.base}</span>
                       </div>
                     )}

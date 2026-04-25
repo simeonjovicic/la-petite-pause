@@ -690,7 +690,7 @@ export default function Home() {
             <div style={{ fontSize: 48, marginBottom: 16 }}>🍜</div>
             <h3
               style={{
-                fontFamily: "'Playfair Display', serif",
+                fontFamily: "var(--font-playfair), 'Playfair Display', serif",
                 fontSize: 24,
                 marginBottom: 12,
               }}
